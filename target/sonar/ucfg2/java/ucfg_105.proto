@@ -1,0 +1,96 @@
+
+]com.infosys.project.user.dto.SellerDTO#createEntity()Lcom/infosys/project/user/entity/Seller;]
+SC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/dto/SellerDTO.javaD D("1*√ 
+1]
+SC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/dto/SellerDTO.javaE E(∏µ
+]
+SC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/dto/SellerDTO.javaE E(,
+%0&com.infosys.project.user.entity.Seller"&com.infosys.project.user.entity.Seller 
+«
+]
+SC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/dto/SellerDTO.javaE E(
+%1"0com.infosys.project.user.entity.Seller#<init>()V*.
+,
+%0&com.infosys.project.user.entity.Seller 
+«
+]
+SC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/dto/SellerDTO.javaE E(0
+seller&com.infosys.project.user.entity.Seller"__id*.
+,
+%0&com.infosys.project.user.entity.Sellerˇ¸
+]
+SC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/dto/SellerDTO.javaF F('
+%2java.lang.Integer"Gcom.infosys.project.user.dto.SellerDTO#getSellerId()Ljava/lang/Integer;**(
+&com.infosys.project.user.dto.SellerDTO2getSellerId()©¶
+]
+SC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/dto/SellerDTO.javaF F((
+
+%3void"Hcom.infosys.project.user.entity.Seller#setSellerId(Ljava/lang/Integer;)V*2
+0
+seller&com.infosys.project.user.entity.Seller*
+
+%2java.lang.Integer2 setSellerId(Ljava/lang/Integer;)ıÚ
+]
+SC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/dto/SellerDTO.javaG G(
+%4java.lang.String"Bcom.infosys.project.user.dto.SellerDTO#getName()Ljava/lang/String;**(
+&com.infosys.project.user.dto.SellerDTO2	getName()ûõ
+]
+SC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/dto/SellerDTO.javaG G( 
+
+%5void"Ccom.infosys.project.user.entity.Seller#setName(Ljava/lang/String;)V*2
+0
+seller&com.infosys.project.user.entity.Seller*
+
+%4java.lang.String2setName(Ljava/lang/String;)˜Ù
+]
+SC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/dto/SellerDTO.javaH H(!
+%6java.lang.String"Ccom.infosys.project.user.dto.SellerDTO#getEmail()Ljava/lang/String;**(
+&com.infosys.project.user.dto.SellerDTO2
+getEmail()†ù
+]
+SC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/dto/SellerDTO.javaH H("
+
+%7void"Dcom.infosys.project.user.entity.Seller#setEmail(Ljava/lang/String;)V*2
+0
+seller&com.infosys.project.user.entity.Seller*
+
+%6java.lang.String2setEmail(Ljava/lang/String;)˝˙
+]
+SC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/dto/SellerDTO.javaI I('
+%8java.lang.String"Fcom.infosys.project.user.dto.SellerDTO#getPassword()Ljava/lang/String;**(
+&com.infosys.project.user.dto.SellerDTO2getPassword()¶£
+]
+SC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/dto/SellerDTO.javaI I((
+
+%9void"Gcom.infosys.project.user.entity.Seller#setPassword(Ljava/lang/String;)V*2
+0
+seller&com.infosys.project.user.entity.Seller*
+
+%8java.lang.String2setPassword(Ljava/lang/String;)ÑÅ
+]
+SC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/dto/SellerDTO.javaJ J(-
+%10java.lang.String"Icom.infosys.project.user.dto.SellerDTO#getPhoneNumber()Ljava/lang/String;**(
+&com.infosys.project.user.dto.SellerDTO2getPhoneNumber()Æ´
+]
+SC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/dto/SellerDTO.javaJ J(.
+%11void"Jcom.infosys.project.user.entity.Seller#setPhoneNumber(Ljava/lang/String;)V*2
+0
+seller&com.infosys.project.user.entity.Seller*
+
+%10java.lang.String2"setPhoneNumber(Ljava/lang/String;)Ä˝
+]
+SC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/dto/SellerDTO.javaK K('
+%12java.lang.Boolean"Gcom.infosys.project.user.dto.SellerDTO#getIsActive()Ljava/lang/Boolean;**(
+&com.infosys.project.user.dto.SellerDTO2getIsActive()´®
+]
+SC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/dto/SellerDTO.javaK K((
+%13void"Hcom.infosys.project.user.entity.Seller#setIsActive(Ljava/lang/Boolean;)V*2
+0
+seller&com.infosys.project.user.entity.Seller*
+
+%12java.lang.Boolean2 setIsActive(Ljava/lang/Boolean;)"ì
+]
+SC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/dto/SellerDTO.javaL L(2
+0
+seller&com.infosys.project.user.entity.SellerB*(
+&com.infosys.project.user.dto.SellerDTO

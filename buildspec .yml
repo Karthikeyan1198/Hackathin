@@ -1,0 +1,25 @@
+version: 0.2
+
+phases:
+       
+  #pre_build:
+    #commands:
+      # - command
+      # - command
+  build:
+    commands:
+       - echo Build started on `date`
+       - mvn test
+  post_build:
+    commands:
+       
+       - echo Build completed on `date`
+       - mvn package
+artifacts:
+  files:
+    #  - '**/*'
+     - start_server
+     - install_dependencies
+     - 'target/Project-0.0.1-SNAPSHOT.jar'
+     - 'appspec.yml'
+  discard-paths: yes 

@@ -1,0 +1,103 @@
+
+ccom.infosys.project.user.controller.UserController#viewProducts(Ljava/lang/String;)Ljava/util/List;i
+_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/controller/UserController.java< <(%"startingBlock*‰
+startingBlocki
+_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/controller/UserController.java<% <(GÞ
+Û
+i
+_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/controller/UserController.java<& <(3
+%10"
+__annotate*86
+4org.springframework.web.bind.annotation.PathVariable*!
+
+productnamejava.lang.String¦
+£
+i
+_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/controller/UserController.java<; <(F
+productnamejava.lang.String"__annotation*
+
+%10*
+1* 
+1i
+_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/controller/UserController.java= =(	Ð
+Í
+i
+_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/controller/UserController.java= =(	
+%0org.slf4j.Logger"__id*B*@4
+2com.infosys.project.user.controller.UserController"
+loggerÊÇ
+i
+_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/controller/UserController.java= =(B
+
+%1void"<org.slf4j.Logger#info(Ljava/lang/String;Ljava/lang/Object;)V*
+
+%0org.slf4j.Logger*'%
+#Add products to wishlist request {}*!
+
+productnamejava.lang.String2*info(Ljava/lang/String;Ljava/lang/Object;)—
+”
+i
+_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/controller/UserController.java> >(
+%2java.io.PrintStream"__id*
+""ûø
+i
+_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/controller/UserController.java> >((
+
+%3void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%2java.io.PrintStream*
+before template2println(Ljava/lang/String;)í
+ê
+i
+_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/controller/UserController.java? ?($1
+%4+org.springframework.web.client.RestTemplate"__id*D*B4
+2com.infosys.project.user.controller.UserController"
+
+template¹
+¶
+i
+_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/controller/UserController.java?2 ?(T
+%5java.lang.String"__concat*
+http://PROJECT*
+/products/name/Í
+Ê
+i
+_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/controller/UserController.java?2 ?(`
+%6java.lang.String"__concat*
+
+%5java.lang.String*!
+
+productnamejava.lang.String¦£
+i
+_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/controller/UserController.java? ?(l
+%7java.util.List"‚org.springframework.web.client.RestTemplate#getForObject(Ljava/lang/String;Ljava/lang/Class;[Ljava/lang/Object;)Ljava/lang/Object;*3
+1
+%4+org.springframework.web.client.RestTemplate*
+
+%6java.lang.String*
+""2DgetForObject(Ljava/lang/String;Ljava/lang/Class;[Ljava/lang/Object;)§
+¤
+i
+_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/controller/UserController.java? ?(m
+prodDTOjava.util.List"__id*
+
+%7java.util.List—
+”
+i
+_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/controller/UserController.java@ @(
+%8java.io.PrintStream"__id*
+""ƒ€
+i
+_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/controller/UserController.java@ @(
+
+%9void"0java.io.PrintStream#println(Ljava/lang/Object;)V*
+
+%8java.io.PrintStream*
+
+prodDTOjava.util.List2println(Ljava/lang/Object;)"ˆ
+i
+_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/controller/UserController.javaA A(
+
+prodDTOjava.util.List:
+productnamejava.lang.StringB64
+2com.infosys.project.user.controller.UserController

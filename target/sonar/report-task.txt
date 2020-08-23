@@ -1,0 +1,7 @@
+organization=arulprasanth2421
+projectKey=arulprasanth2421_user1
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8760
+dashboardUrl=https://sonarcloud.io/dashboard?id=arulprasanth2421_user1
+ceTaskId=AXLHFskY9k156g_gn2EM
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXLHFskY9k156g_gn2EM
