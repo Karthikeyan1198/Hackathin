@@ -24,10 +24,9 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
 
-		<sonar.projectKey>arulprasanth2421_user1</sonar.projectKey>
-		<sonar.organization>arulprasanth2421</sonar.organization>
-		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>4aca539851a1c913d5fe591c3a8d0160c879efa7</sonar.login>
+		<sonar.projectKey>Karthikeyan1198_Hackathin</sonar.projectKey>
+  <sonar.organization>karthikeyan1198</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
 	</properties>
 	<dependencyManagement>
